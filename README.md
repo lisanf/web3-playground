@@ -22,11 +22,11 @@ DB_HOST=localhost
 INFURA_API_KEY=YOUR_API_KEY
 
 2. Install project dependencies:
-```bash
+
 npm install
 
 3. Start the server:
-```bash
+
 npm start
 
 4. Make sure to replace YOUR_API_KEY in the .env file with your actual Infura API key.
