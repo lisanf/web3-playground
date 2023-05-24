@@ -14,9 +14,9 @@ The base URL for the API is `/api`.
 
 To run the Ethereum Balance API:
 
+```markdown
 1. Create a `.env` file in the project directory with the following variables:
 
-```markdown
 PORT=3000
 DB_HOST=localhost
 INFURA_API_KEY=YOUR_API_KEY
