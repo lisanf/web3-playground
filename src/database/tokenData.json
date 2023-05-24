@@ -1,0 +1,133 @@
+[
+    {
+        "abi": [],
+        "name": "ETH",
+        "contractAddress": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE"
+    },
+    {
+      "abi": [
+        {
+          "name": "balanceOf",
+          "type": "function",
+          "inputs": [
+            {
+              "name": "_owner",
+              "type": "address"
+            }
+          ],
+          "outputs": [
+            {
+              "name": "balance",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "constant": true,
+          "stateMutability": "view"
+        }
+      ],
+      "name": "USDT",
+      "contractAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+    },
+    {
+      "abi": [
+        {
+          "name": "balanceOf",
+          "type": "function",
+          "inputs": [
+            {
+              "name": "account",
+              "type": "address"
+            }
+          ],
+          "outputs": [
+            {
+              "name": "balance",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "constant": true,
+          "stateMutability": "view"
+        }
+      ],
+      "name": "USDC",
+      "contractAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+    },
+    {
+      "abi": [
+        {
+          "name": "balanceOf",
+          "type": "function",
+          "inputs": [
+            {
+              "name": "account",
+              "type": "address"
+            }
+          ],
+          "outputs": [
+            {
+              "name": "balance",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "constant": true,
+          "stateMutability": "view"
+        }
+      ],
+      "name": "DAI",
+      "contractAddress": "0x6B175474E89094C44Da98b954EedeAC495271d0F"
+    },
+    {
+      "abi": [
+        {
+          "name": "balanceOf",
+          "type": "function",
+          "inputs": [
+            {
+              "name": "_owner",
+              "type": "address"
+            }
+          ],
+          "outputs": [
+            {
+              "name": "balance",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "constant": true,
+          "stateMutability": "view"
+        }
+      ],
+      "name": "BNB",
+      "contractAddress": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52"
+    },
+    {
+      "abi": [
+        {
+          "name": "balanceOf",
+          "type": "function",
+          "inputs": [
+            {
+              "name": "_address",
+              "type": "address"
+            }
+          ],
+          "outputs": [
+            {
+              "name": "",
+              "type": "uint256"
+            }
+          ],
+          "payable": false,
+          "constant": true,
+          "stateMutability": "view"
+        }
+      ],
+      "name": "BUSD",
+      "contractAddress": "0x4Fabb145d64652a948d72533023f6E7A623C7C53"
+    }
+
+  ]
